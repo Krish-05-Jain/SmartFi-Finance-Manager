@@ -1,0 +1,6 @@
+USER|Krish|1050
+TRANS|2026-05-01|Income|Salary|3000
+TRANS|2026-05-05|Expense|Rent|1200
+TRANS|2026-05-10|Expense|Groceries|350
+TRANS|2026-05-15|Expense|Utilities|150
+TRANS|2026-05-18|Expense|Dining|250
